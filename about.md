@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Security Solutions Engineer with some experience in network automation (orchestration).
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love to talk and read about security, network(s) and development.
 
 ### Contact me
 
