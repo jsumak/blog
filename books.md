@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-Some of the IT (security) related books I've read in the this yeaer in no particular order ..
+Some of the IT (security) related books I've read in this year in no particular order ..
 
 - Linux Server Security: Hack and defend by Chris Binnie
 - CompTIA Security+: Study Guide 5th Edition by Emmett Dulaney
