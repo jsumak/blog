@@ -4,7 +4,7 @@ title: Podcasts
 permalink: /podcasts/
 ---
 
-Since I listen to a lot of IT related podcasts I may as well share some of my favs ..
+Since I listen to a LOT of IT related podcasts I may as well share some of my favs ..
 
 - Darknet Diaries by Jack Rhysider (of course)
 - The Social-Engineer Podcast by Chris Hadnagy
