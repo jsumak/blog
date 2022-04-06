@@ -8,7 +8,7 @@ I'm a Security Solutions Engineer with some experience in network automation (or
 
 ### More Information
 
-I love to talk and read about security, network(s) and development.
+I love to talk, read and listen about security, network(s) and development.
 
 ### Contact me
 
