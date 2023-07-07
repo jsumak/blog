@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a Security Solutions Engineer with some experience in network automation (orchestration).
+I'm a Security Solutions Engineer with experience in network automation (orchestration).
 
 ### More Information
 
